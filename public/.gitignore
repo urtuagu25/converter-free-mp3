@@ -1,0 +1,26 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos descargados
+downloads/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variables de entorno
+.env
+.env.local
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Carpetas de IDEs
+.vscode/
+.idea/
+*.sublime-*

@@ -1,0 +1,14 @@
+{
+  "name": "youtube-converter",
+  "version": "1.0.0",
+  "description": "Conversor de YouTube a MP3/MP4 para proyecto escolar",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5"
+  },
+  "type": "commonjs"
+}
